@@ -1,0 +1,24 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 9,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets": false,
+	"mdpopups.sublime_user_lang_map":
+	{
+	},
+	"mdpopups.use_sublime_highlighter": true,
+	"rulers":
+	[
+		80
+	],
+	"shift_tab_unindent": true,
+	"show_tab_close_buttons": false,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"word_wrap": true
+}

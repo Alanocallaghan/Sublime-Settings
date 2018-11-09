@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketGuard",
+		"BracketHighlighter",
+		"Clang Format",
+		"EasyClangComplete",
+		"LaTeX-cwl",
+		"LaTeXing",
+		"Package Control",
+		"R-Box"
+	]
+}
