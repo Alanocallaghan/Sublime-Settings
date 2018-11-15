@@ -1,0 +1,5 @@
+// These settings override both User and Default settings for the Markdown syntax
+{
+    "tab_size": 2,
+    "auto_complete_selector": "source, comment, text.plain, meta.tag, punctuation.definition.tag.begin, css"
+}
