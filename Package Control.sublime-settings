@@ -9,9 +9,11 @@
 		"BracketHighlighter",
 		"Clang Format",
 		"EasyClangComplete",
+		"knitr",
 		"LaTeX-cwl",
 		"LaTeXing",
 		"Package Control",
-		"R-Box"
+		"R-Box",
+		"SendText"
 	]
 }
