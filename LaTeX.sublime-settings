@@ -1,5 +1,7 @@
 // These settings override both User and Default settings for the LaTeX syntax
 {
     "spell_check": true,
-    "dictionary": "Packages/Language - English/en_GB.dic"
+    "dictionary": "Packages/Language - English/en_GB.dic",
+    "tab_size": 2,
+    "convert_tabs_to_spaces": true
 }
