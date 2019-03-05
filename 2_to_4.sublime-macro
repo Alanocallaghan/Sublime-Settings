@@ -1,0 +1,30 @@
+[
+    {
+        "command": "set_setting", 
+        "args": {
+            "setting": "tab_size", 
+            "value": 2
+        }
+    },
+    {
+        "args":
+        {
+            "set_translate_tabs": true
+        },
+        "command": "unexpand_tabs"
+    },
+    {
+        "command": "set_setting", 
+        "args": {
+            "setting": "tab_size", 
+            "value": 4
+        }
+    },
+    {
+        "args":
+        {
+            "set_translate_tabs": true
+        },
+        "command": "expand_tabs"
+    }
+]
